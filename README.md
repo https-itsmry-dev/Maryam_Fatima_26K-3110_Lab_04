@@ -15,3 +15,30 @@ This repository serves as a practical demonstration of the following in C langua
 * Making Basic programs to build logical intuition.
 
 **x-------------x-------------x-------------x-------------x-------------x-------------x**
+
+## Repository Inlcudes In-Lab and Post-Lab Tasks of Lab 04:
+
+### In-Lab Tasks of PF_Lab 04 are mentioned below:
+* **<ins>TASK # 1 :</ins>** Add two numbers.
+* **<ins>TASK # 2 :</ins>** Calculate Percentage of a Student.
+* **<ins>TASK # 3 :</ins>** Even or Odd Number Checker.
+* **<ins>TASK # 4 :</ins>** Checking Age.
+* **<ins>TASK # 5 :</ins>** Grade Identifier.
+
+### Post-Lab Tasks of PF_Lab 04 are mentioned below:
+* **<ins>TASK # 1 :</ins>** Student Qualifies for the Scholarship or Not.
+* **<ins>TASK # 2 :</ins>** Should Pay Fine or Not?
+* **<ins>TASK # 3 :</ins>** Taking a character and string as input respectively and printing it as 
+                            well using fgets(), puts(), scanf().
+* **<ins>TASK # 4 :</ins>** Calculating area and perimeter of a rectangle of any size.
+* **<ins>TASK # 5 :</ins>** Calculating square and cube of an inter entered by the user.
+* **<ins>TASK # 6 :</ins>** Conversion of Temperature from Celsius to Fahrenheit.
+* **<ins>TASK # 7 :</ins>** Calculating Average of three numbers
+* **<ins>TASK # 8 :</ins>** Program to identify whether the student has ‘PASSED’ the exam or has 
+                   ‘FAILED’ the exam?
+
+  ## NOTE:
+    ### I have attached the screenshot of the output of each Task with their respective code in the file.
+
+
+
