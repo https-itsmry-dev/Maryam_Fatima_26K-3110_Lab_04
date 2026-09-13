@@ -46,7 +46,7 @@ This repository serves as a practical demonstration of the following in C langua
    ### FOR OUTPUT (IN_LAB_TASKS)
   * Made a separate **separate IN_LAB_OUTPUT.md** to show the outputs of LAB_04_In_Lab_Tasks using the screenshot of the output of each task.
       
-   ### FOR OUTPUT (IN_LAB_TASKS)
+   ### FOR OUTPUT (POST_LAB_TASKS)
   * Made a separate **separate POST_LAB_OUTPUT.md** to show the outputs of LAB_04_Post_Lab_Tasks using the screenshot of the output of each task.
       
 
