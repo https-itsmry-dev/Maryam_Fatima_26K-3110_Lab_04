@@ -5,6 +5,7 @@
 ### OUTPUT SCREEN SHOT:
 
 <img width="1034" height="369" alt="image" src="https://github.com/user-attachments/assets/95687364-d35a-44c2-9c40-a3fe8c287d0f" />
+
 **x-------------x-------------x-------------x-------------x-------------x-------------x-------------x-------------x-------------x**
 
 ## Task No: 2 <ins>**[Calculate Percentage of a Student.]**</ins>
@@ -13,6 +14,7 @@
 <img width="1034" height="221" alt="image" src="https://github.com/user-attachments/assets/f033ee25-f250-40de-93b0-91b6768264f4" />
 
 **x-------------x-------------x-------------x-------------x-------------x-------------x-------------x-------------x-------------x**
+
 ## Task No: 3 <ins>**[Even or Odd Number Checker]**</ins>
 
 ### OUTPUT SCREEN SHOT:
@@ -22,6 +24,7 @@
 
 ### <ins> THE NUMBER IS ODD (CASE)</ins>
 <img width="1024" height="227" alt="image" src="https://github.com/user-attachments/assets/e213bcb1-5d28-4df4-b872-d92e1f28032f" />
+
 **x-------------x-------------x-------------x-------------x-------------x-------------x-------------x-------------x-------------x**
 
 ## Task No: 4 <ins>**[Checking Age]**</ins>
