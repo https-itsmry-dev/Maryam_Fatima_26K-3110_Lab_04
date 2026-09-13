@@ -25,6 +25,8 @@ This repository serves as a practical demonstration of the following in C langua
 * **<ins>TASK # 4 :</ins>** Checking Age.
 * **<ins>TASK # 5 :</ins>** Grade Identifier.
 
+**x-------------x-------------x-------------x-------------x-------------x-------------x**
+
 ### Post-Lab Tasks of PF_Lab 04 are mentioned below:
 * **<ins>TASK # 1 :</ins>** Student Qualifies for the Scholarship or Not.
 * **<ins>TASK # 2 :</ins>** Should Pay Fine or Not?
@@ -36,9 +38,18 @@ This repository serves as a practical demonstration of the following in C langua
 * **<ins>TASK # 7 :</ins>** Calculating Average of three numbers
 * **<ins>TASK # 8 :</ins>** Program to identify whether the student has ‘PASSED’ the exam or has 
                    ‘FAILED’ the exam?
+  
+**x-------------x-------------x-------------x-------------x-------------x-------------x**
+
 
   ## NOTE:
-    ### I have attached the screenshot of the output of each Task with their respective code in the file.
+   ### FOR OUTPUT (IN_LAB_TASKS)
+  * Made a separate **separate IN_LAB_OUTPUT.md** to show the outputs of LAB_04_In_Lab_Tasks using the screenshot of the output of each task.
+      
+   ### FOR OUTPUT (IN_LAB_TASKS)
+  * Made a separate **separate POST_LAB_OUTPUT.md** to show the outputs of LAB_04_Post_Lab_Tasks using the screenshot of the output of each task.
+      
 
+**x-------------x-------------x-------------x-------------x-------------x-------------x**
 
 
